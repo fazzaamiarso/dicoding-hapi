@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import Hapi from "@hapi/hapi";
 import { nanoid } from "nanoid";
 import { buildResponse } from "./utils";
